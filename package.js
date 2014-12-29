@@ -2,7 +2,7 @@ Package.describe({
   summary: "An updated Jquery package for Meteor",
   git: "https://github.com/iamthemuffinman/meteor-jquery",
   version: "0.0.1",
-  name: "iamthemuffinman/jquery"
+  name: "iamthemuffinman:jquery"
 });
 
 Package.on_use(function(api, where) {
