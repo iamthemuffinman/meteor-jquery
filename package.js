@@ -6,5 +6,5 @@ Package.describe({
 });
 
 Package.on_use(function(api, where) {
-  api.add_files("jquery-.1.11.2.min.js", "client");
+  api.add_files("jquery.1.11.2.min.js", "client");
 });
